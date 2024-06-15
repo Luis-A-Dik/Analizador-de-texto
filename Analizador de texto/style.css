@@ -1,0 +1,23 @@
+header {
+    background-color: rgb(85, 3, 3);
+    color: rgb(49, 45, 45);
+    text-align: center;
+}
+
+body {
+    background-color: #111114;
+    color: aqua;
+
+
+}
+
+textarea { 
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+footer {
+    color: rgb(56, 3, 3);
+    text-align: center;
+}
+
